@@ -9,4 +9,4 @@ SQLite was used to store weather data for the island of Oahu, Hawaii during the 
 3.	Based on standard deviation and the percentile ranges of both June and December, there is little to no difference between these two months. This indicates that the weather does not fluctuate much between summer and winter months in Oahu, Hawaii. 
 
 ## Summary
-The months of June and December in Oahu share similar weather patterns. This means that a surf n’ shake shop would be sustainable year-round. To gather more data, queries on weather conditions such as possible rainfall
+The months of June and December in Oahu share similar weather patterns. This means that a surf n’ shake shop would be sustainable year-round. To gather more data, queries for rainfall and most active weather stations should be performed. The summary data for these two queries will provide more information on how often certain areas of the island will be hit with random rainfall and weather patterns. Based on this extra information, the location of the shop can better be decided. 
